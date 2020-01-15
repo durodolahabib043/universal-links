@@ -1,24 +1,18 @@
+  
   {
     "applinks": {
         "apps": [],
         "details": [
             {
-                "appID": "9KHRDD34NE.com.razeware.UniversalLinksnnjgksddfdfd",
+                "appID": "623URMXV38.ca.interac.ecomm.pbb.merchant.test.app",
                 "paths": ["*"]
             },
               {
-                "appID": "9KHRDD34NE.io.twg.InteracProximityDemoAppmmmm",
+                "appID": "623URMXV38.ca.interac.ecomm.pbb.merchant.host.app",
                 "paths": ["*"]
             }
         ]
     }
 }
-
-
-
-
-
-
-
 
 
