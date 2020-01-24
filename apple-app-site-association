@@ -4,11 +4,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "623URMXV38.ca.interac.ecomm.pbb.issuer.test.app",
+                "appID": "623URMXV38.ca.interac.ecomm.pbb.merchant.test.app",
                 "paths": ["*"]
             },
               {
-                "appID": "623URMXV38.ca.interac.ecomm.pbb.issuer.host.app",
+                "appID": "623URMXV38.ca.interac.ecomm.pbb.merchant.host.app",
                 "paths": ["*"]
             }
         ]
